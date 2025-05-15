@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nalikiru-dev
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning at upwork freelancing
+- 🌱 I’m currently trying to work on upwork freelancing
 - 💞️ I’m looking to collaborate on big and advanced ai project
 - 📫 How to reach me you can talk me IN https://t.me/am_kiru
 
