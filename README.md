@@ -9,4 +9,7 @@ nalikiru-dev/nalikiru-dev is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h2>My stats</h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrnpro&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nalikiru-dev&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalikiru-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
