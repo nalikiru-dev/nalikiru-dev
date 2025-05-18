@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nalikiru-dev&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nalikiru-dev&repo=fidellearn)](https://github.com/nalikiru-dev/fidellearn)
+[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nalikiru-dev&repo=fidellearn)](https://github.com/nalikiru-dev/fidellearn)
+](https://github.cards/nalikiru-dev?template=Default)
