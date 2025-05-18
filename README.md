@@ -3,6 +3,7 @@
   I am Kiru
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 - 👀 I’m interested in programing 
 - 🌱 I’m currently trying to work on upwork freelancing
 - 💞️ I’m looking to collaborate on big and advanced projects
