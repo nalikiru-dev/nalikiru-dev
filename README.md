@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nalikiru-dev&theme=dark&background=000000)](https://git.io/streak-stats)
 
-https://github.cards/nalikiru-dev?template=Default
+<img src="https://robbin-dev.vercel.app/nalikiru-dev-github-cards%20(1).png"/>
