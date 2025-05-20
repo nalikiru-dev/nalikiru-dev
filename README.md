@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2>My stats</h2>
 
-![](https://raw.githubusercontent.com/nalikiru-dev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nalikiru-dev/github-stats/refs/heads/master/generated/overview.svg?token=GHSAT0AAAAAADDV7KPGCVF2PF5FS5YBAA6Q2BMZR7A#gh-dark-mode-only)
