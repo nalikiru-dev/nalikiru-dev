@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2>My stats</h2>
 
-![nalikiru-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalikiru-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
