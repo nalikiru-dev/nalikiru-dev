@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2>My stats</h2>
 
-![](https://raw.githubusercontent.com/nalikiru-dev/github-stats/refs/heads/master/generated/overview.svg?token=GHSAT0AAAAAADDV7KPGCVF2PF5FS5YBAA6Q2BMZR7A#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nalikiru-dev/github-stats/refs/heads/master/generated/languages.svg?token=GHSAT0AAAAAADDV7KPGNOT5MWYJ6BINAREY2BMZWBA#gh-dark-mode-only)
+![](https://myrobstats.vercel.app/overview.svg#gh-dark-mode-only)
+![](https://myrobstats.vercel.app/languages.svg#gh-dark-mode-only)
