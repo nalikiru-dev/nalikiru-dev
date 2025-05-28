@@ -7,7 +7,7 @@
 - 👀 I’m interested in programing 
 - 🌱 I’m currently trying to work on upwork freelancing
 - 💞️ I’m looking to collaborate on big and advanced projects
-- 📫 How to reach me you can talk me IN https://t.me/am_kiru
+- 📫 How to reach me you can reach out IN Telegram https://t.me/am_kiru
 
 <!---
 nalikiru-dev/nalikiru-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
