@@ -5,10 +5,9 @@
 </h1>
 
 - 👀 I’m interested in programing 
-- 🌱 I’m currently trying to work on upwork freelancing
+- 🌱 I’m currently working as upwork freelancer
 - 💞️ I’m looking to collaborate on big and advanced projects
-- 📫 How to reach me you can reach out IN Telegram https://t.me/amkiru
-
+- ⚡️ I plan on building projects that solve critical issues or problems
 <!---
 nalikiru-dev/nalikiru-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
