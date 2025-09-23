@@ -14,5 +14,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2>My stats</h2>
 
-![](https://myrobstats.vercel.app/overview.svg#gh-dark-mode-only)
-![](https://myrobstats.vercel.app/languages.svg#gh-dark-mode-only)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nalikiru-dev?cardType=level&theme=nightowl&preferLogin=true&Border=0018DD56&Ring=DD2727)](https://git.io/awesome-stats-card)
+
+![nalikiru-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalikiru-dev&theme=nord&show_icons=true&hide_border=true&layout=compact)
