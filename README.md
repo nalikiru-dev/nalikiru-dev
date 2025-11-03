@@ -5,7 +5,7 @@
 </h1>
 
 - 👀 I’m interested in programing 
-- 🌱 I’m currently working as upwork freelancer
+- 🌱 I’m currently working as Fullstack developer in NALTH.JS
 - 💞️ I’m looking to collaborate on big and advanced projects
 - ⚡️ I plan on building projects that solve critical issues or problems
 <!---
